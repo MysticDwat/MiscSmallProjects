@@ -1,0 +1,9 @@
+2   #number of cases
+3   #number of values in the case
+1   #values
+1   #values
+100 #values
+3   #number of values in the case
+7   #values
+7   #values
+7   #values
